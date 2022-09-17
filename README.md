@@ -45,9 +45,9 @@ By checking in the system, it will be easy to identify the number of available p
 
 Cashier
 
-user: cashier
+user: staff
 
-password: cashier123
+password: staff123
 
 Admin
 
@@ -57,7 +57,7 @@ password: admin123
 
 
 ** \*\*Also Deploy our project on web host infinityfree\*\ **
-Our Website link http://iiitl-store-automation.epizy.com/
+Our Website link https://grocery-management-system.epizy.com/
 
 **By:** Group 28
 
